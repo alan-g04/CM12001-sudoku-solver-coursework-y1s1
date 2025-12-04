@@ -10,6 +10,7 @@ For this part of the assignment, you will need to submit the implementation for 
 - Your code will be subject to automated testing
 - Speed of code $\propto$ Higher grade
 - Must be compatible with sample tests
+- An array of -1 should be returned for invalid puzzles
 
 ### Warnings
 
@@ -37,7 +38,7 @@ A successful agent using basic, heuristic, or local search may be easier to impl
 
 A high grade requires a particularly efficient implementation of constraint satisfaction, or something beyond the specification.
 
-More than one algorithm can be implemented and included (where??) and written about in the report, but only code in the notebook will be tested.
+More than one algorithm can be implemented and included **(where??)** and written about in the **report**, but only code in the notebook will be tested.
 
 ### Ideas:
 
